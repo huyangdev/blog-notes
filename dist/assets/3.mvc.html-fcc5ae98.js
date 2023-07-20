@@ -1,0 +1,1 @@
+import{_ as e,W as c,X as t,a0 as o,Y as n}from"./framework-b5ea9e64.js";const s={},_=n("p",null,"Spring MVC、 WebSocket、 SockJS、 STOMP Messaging。",-1);function a(r,l){return c(),t("div",null,[_,o(" more ")])}const i=e(s,[["render",a],["__file","3.mvc.html.vue"]]);export{i as default};
